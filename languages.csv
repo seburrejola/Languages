@@ -1,0 +1,185 @@
+id,code,language
+0,aa,Afar
+1,ab,Abkhazian
+2,af,Afrikaans
+3,ak,Akan
+4,am,Amharic
+5,ar,Arabic
+6,an,Aragonese
+7,as,Assamese
+8,av,Avaric
+9,ae,Avestan
+10,ay,Aymara
+11,az,Azerbaijani
+12,ba,Bashkir
+13,bm,Bambara
+14,be,Belarusian
+15,bn,Bengali
+16,bi,Bislama
+17,bo,Tibetan
+18,bs,Bosnian
+19,br,Breton
+20,bg,Bulgarian
+21,ca,Catalan
+22,cs,Czech
+23,ch,Chamorro
+24,ce,Chechen
+25,cu,Church Slavic
+26,cv,Chuvash
+27,kw,Cornish
+28,co,Corsican
+29,cr,Cree
+30,cy,Welsh
+31,da,Danish
+32,de,German
+33,dv,Dhivehi
+34,dz,Dzongkha
+35,el,Modern Greek (1453-)
+36,en,English
+37,eo,Esperanto
+38,et,Estonian
+39,eu,Basque
+40,ee,Ewe
+41,fo,Faroese
+42,fa,Persian
+43,fj,Fijian
+44,fi,Finnish
+45,fr,French
+46,fy,Western Frisian
+47,ff,Fulah
+48,gd,Scottish Gaelic
+49,ga,Irish
+50,gl,Galician
+51,gv,Manx
+52,gn,Guarani
+53,gu,Gujarati
+54,ht,Haitian
+55,ha,Hausa
+56,sh,Serbo-CroatianCode element for 639-1 has been deprecated
+57,he,Hebrew
+58,hz,Herero
+59,hi,Hindi
+60,ho,Hiri Motu
+61,hr,Croatian
+62,hu,Hungarian
+63,hy,Armenian
+64,ig,Igbo
+65,io,Ido
+66,ii,Sichuan Yi
+67,iu,Inuktitut
+68,ie,Interlingue
+69,ia,Interlingua (International Auxiliary Language Association)
+70,id,Indonesian
+71,ik,Inupiaq
+72,is,Icelandic
+73,it,Italian
+74,jv,Javanese
+75,ja,Japanese
+76,kl,Kalaallisut
+77,kn,Kannada
+78,ks,Kashmiri
+79,ka,Georgian
+80,kr,Kanuri
+81,kk,Kazakh
+82,km,Central Khmer
+83,ki,Kikuyu
+84,rw,Kinyarwanda
+85,ky,Kirghiz
+86,kv,Komi
+87,kg,Kongo
+88,ko,Korean
+89,kj,Kuanyama
+90,ku,Kurdish
+91,lo,Lao
+92,la,Latin
+93,lv,Latvian
+94,li,Limburgan
+95,ln,Lingala
+96,lt,Lithuanian
+97,lb,Luxembourgish
+98,lu,Luba-Katanga
+99,lg,Ganda
+100,mh,Marshallese
+101,ml,Malayalam
+102,mr,Marathi
+103,mk,Macedonian
+104,mg,Malagasy
+105,mt,Maltese
+106,mn,Mongolian
+107,mi,Maori
+108,ms,Malay (macrolanguage)
+109,my,Burmese
+110,na,Nauru
+111,nv,Navajo
+112,nr,South Ndebele
+113,nd,North Ndebele
+114,ng,Ndonga
+115,ne,Nepali (macrolanguage)
+116,nl,Dutch
+117,nn,Norwegian Nynorsk
+118,nb,Norwegian Bokmål
+119,no,Norwegian
+120,ny,Nyanja
+121,oc,Occitan (post 1500)
+122,oj,Ojibwa
+123,or,Oriya (macrolanguage)
+124,om,Oromo
+125,os,Ossetian
+126,pa,Panjabi
+127,pi,Pali
+128,pl,Polish
+129,pt,Portuguese
+130,ps,Pushto
+131,qu,Quechua
+132,rm,Romansh
+133,ro,Romanian
+134,rn,Rundi
+135,ru,Russian
+136,sg,Sango
+137,sa,Sanskrit
+138,si,Sinhala
+139,sk,Slovak
+140,sl,Slovenian
+141,se,Northern Sami
+142,sm,Samoan
+143,sn,Shona
+144,sd,Sindhi
+145,so,Somali
+146,st,Southern Sotho
+147,es,Spanish
+148,sq,Albanian
+149,sc,Sardinian
+150,sr,Serbian
+151,ss,Swati
+152,su,Sundanese
+153,sw,Swahili (macrolanguage)
+154,sv,Swedish
+155,ty,Tahitian
+156,ta,Tamil
+157,tt,Tatar
+158,te,Telugu
+159,tg,Tajik
+160,tl,Tagalog
+161,th,Thai
+162,ti,Tigrinya
+163,to,Tonga (Tonga Islands)
+164,tn,Tswana
+165,ts,Tsonga
+166,tk,Turkmen
+167,tr,Turkish
+168,tw,Twi
+169,ug,Uighur
+170,uk,Ukrainian
+171,ur,Urdu
+172,uz,Uzbek
+173,ve,Venda
+174,vi,Vietnamese
+175,vo,Volapük
+176,wa,Walloon
+177,wo,Wolof
+178,xh,Xhosa
+179,yi,Yiddish
+180,yo,Yoruba
+181,za,Zhuang
+182,zh,Chinese
+183,zu,Zulu
